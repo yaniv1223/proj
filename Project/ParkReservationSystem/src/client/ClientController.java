@@ -18,7 +18,7 @@ import common.ChatIF;
  * @version July 2000
  */
 public class ClientController implements ChatIF 
-{//this is test32lkhkljgh
+{//this is test32lkhkljgh321654
   //Class variables *************************************************
   
   /**
