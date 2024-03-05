@@ -23,7 +23,7 @@ public class ClientUI extends Application {
     public static ClientController chat; // only one instance
     
     @FXML
-    private Button okBtn;
+    private Button okBtn;//check
 
     @FXML
     private TextField enterHostIP;
